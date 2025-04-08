@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Git\agroCifra\agroCifra\Number.h(8,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+  UnitTest1.vcxproj -> C:\Git\agroCifra\agroCifra\x64\Debug\UnitTest1.dll
